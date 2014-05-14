@@ -1,5 +1,5 @@
 //
-//  CCViewController.h
+//  CCTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by xiaoyan wang on 5/14/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface CCViewController : UIViewController
+@interface CCTableViewController : UITableViewController
 
 @end
